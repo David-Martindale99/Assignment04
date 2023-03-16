@@ -22,4 +22,3 @@ function findModulus(num1, num2) {
     let mod = num2 % num1
     return `${mod} is the modulus of ${num1} and ${num2}`
 }
-
